@@ -1,0 +1,52 @@
+body{
+    background-color:antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+header{
+    color:black;
+    background-color: antiquewhite;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+nav{
+    background-color: antiquewhite;
+    text-align: left;
+    
+}
+header:hover{
+    background-color: red;
+    color: antiquewhite;
+}
+
+.gakada{
+    background-color: brown;
+    text-align: center;
+}
+.tentang-content{
+    display: flex;
+    gap: 100px;
+    align-items: center;
+
+    
+}
+
+
+
+.foto img{
+    width: 100px;
+    height: 100px;
+    border: 2px dotted red;
+    border-radius: 100%;
+}
+
+
+main{
+    background-color: antiquewhite;
+}
+.footer{
+    background-color: black;
+    
+}
